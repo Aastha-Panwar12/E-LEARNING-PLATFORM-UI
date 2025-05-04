@@ -38,3 +38,7 @@ This website can be used as:
 A beginner-level project to understand how HTML, CSS, and JS work together
 
 A basic template for an e-learning platform, easily expandable with more features like user authentication, video content, or backend integration.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/5ec95531-8fb8-449e-a700-a8d87f2c6072)
